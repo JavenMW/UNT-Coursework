@@ -1,0 +1,23 @@
+ID: Student ID
+AY: Academic year in which student enrolled for the first time
+Gender: Student gender
+FULLPART: Student full-time or part-time
+HS_RANK: Rank of the student high school
+App_Year: Year in which student applied for the university
+App_Month: Month in which student applied for the university
+Hrs_Brought: Numebr of credit hours that student transferred to the university
+INSTATE: Student paying in-state tution fee (YES) or out-of-state tution fee (NO)
+RESID_LOCATION: Location of student residence
+Housing_Resident: Student living in the dorms (Resident) or living outside the campus (Non-Resident)
+Fall_GPA: First fall GPA of the student
+PELL_Eligible: PELL eligibility status of the student
+First_Gen: Indicates if the student is a first generation 
+ACAD_STAND: Academic standing status of the student
+SAP: Satisfactory academic progress status of the student
+Changed_Major: Inidicates student chagned their major in the first year or not
+College: Student's college
+Plan: Student's plan (abbreviated)
+Plan_Description: Student's plan
+Course_Load: Course load of the student in the first semester
+Spring_Not_Retained: 0 = student enrolled in the spring semester, 1=student DID NOT enroll in the spring semester
+Fall_Not_Retained: 0 = student enrolled in the next fall semester, 1=student DID NOT enroll in the next fall semester
