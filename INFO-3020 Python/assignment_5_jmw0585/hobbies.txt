@@ -1,0 +1,78 @@
+student_1
+I love to play, watch and read about soccer. As one of the most popular sport in the world, soccer has always fascinated me. It can be played with anywhere and with any number of people and all that one needs is a ball and a ground to play.
+49
+student_2
+My favorite hobby is playing video games. I've had an interest in video games as both an intellectual medium and as a gateway for people to communicate and form relationships in a unique environment. Some of my favorite games are Starcraft, Dota 2 and Persona 5.
+46
+student_3
+My hobby is play video games, such as starcraftII and hero of might and magic. I was used to play a lot. However, recently, I do not have enough time to spend on it. So, I just watched some video competition online occassionly. If it has chance, I like to play again.
+48
+student_4
+Music is one of my greatest passions. I learned to play piano at a young age and I picked up the saxophone in high school. In high school, I played in my school's symphonic and concert band, pit orchestra for the musical 'Hairspray', and marching and pep band for football games. In addition to the piano and saxophone, I own a ukulele I want to learn how to play. I also like going to concerts and music festivals.
+78
+student_5
+I enjoy hiking and running around the various parks we have in the Triangle region. I like taking my dogs and family with me, and when the weather is nice, I can spend all day out there. I also enjoy playing games, both the video and board game varieties. Finally, I also enjoy various TV shows, but mostly comedies and family dramas.
+62
+student_6
+My favorite hobby is backpacking. I especially love backpacking in the Rocky Mountains that run throughout the western United States and Canada. I love the serenity and calmness that I experience when I am able to sit still, knowing that I am many miles away from civilization and distraction.
+49
+student_7
+Pokemon Go is something I enjoy doing quite a lot. I also spend a lot of time reading the news and on social media. Cooking and watching movies are two other things that I like to do.
+37
+student_8
+One of my favorite hobbies is camping. I enjoy the outdoors and getting away from my busy life. It's peaceful and is nice to connect with nature- something that is oftentimes hard in the bustle of the city.
+38
+student_9
+Playing video games is one of my hobbies. I enjoy playing games because it allows me to keep in touch with my old friends from high school because we play together online. If I had not played video games, I would not be as close as I am now to my high school friends.
+54
+student_10
+Playing tennis is one of my hobbies. I have been playing tennis since high school where I was a member of Junior & Senior Tennis Varsity Team. I don't play as often as I used to, but I still play with my friends. Also, I like to read fantasy novels and play Janggi, which is a Korean board game.
+59
+student_11
+I enjoy to spend time at the beach. It has always been one of my favorite vacations since I used to go with my family when I was younger. Now I enjoy swimming in the ocean, going on a walk on the sand, or laying down and reading a book on my towel.
+53
+student_12
+One of my hobbies is to play XBOX games at home. I enjoy playing action games like Assassin's Creed the most because it gives me the feeling of power and freedom. I also like reading science fiction novels because I can free my mind when reading them.
+42
+student_13
+Playing soccer is one of my hobbies. I really enjoy playing defense on the pitch. Another hobby of me is playing Rubik's cube. It really helps me relax and release stress.
+31
+student_14
+Playing the bass guitar is one of my hobbies. I started to play one year ago, and really enjoy learning new songs. I also like to travel to at least one new place each year.
+35
+student_15
+One of my hobbies/interests is art. I do work as an artist, painting in acrylics and water-soluble graphite, and draw in silverpoint and graphite. I love art and drawing because I can create all kinds of spaces, creatures, and worlds. As well as this I also enjoy hiking, both for viewing nature and to lose myself in a calmer space.
+60
+student_16
+I love traveling. My family members live in different parts of Asia like China, Japan and Singapore so I get to travel a lot since I was little. Once I traveled alone to UK just to watch my favorite soccer team play right in front of me. It was amazing as I always enjoy watching sports.
+56
+student_17
+I love travelling with my husband. Last year we visited a lot of places like the Great Smoky Mountains, the Bahamas, New York, Houston, San Antonio, Grand Canyon, Las Vegas, Atlanta and Washington DC.  I enjoy cooking Indian food for my family and trying out new recipes. I am a casual photographer. I love capturing the scenic beauty and historical buildings during my road trips.
+65
+student_18
+I like exercising as a hobby. I joined CrossFit about 2 years ago and loved it ever since. It is a combination of weight lifting, power movements and cardio. CrossFit it meant for strength training and metabolic conditioning. It keeps me healthy and I enjoy doing it.
+47
+student_19
+My primary hobbies revolve around 1990s nostalgia. I enjoy playing Super Nintendo games like Chrono Trigger, watching 90s sitcoms and cartoons like Roseanne and The Tick, and listening to 90s music like Ween and Failure. When I'm not living in the past, I can be found playing board games like Fiasco, Mysterium, and Ticket to Ride or modern video games like West of Loathing and Stardew Valley.
+67
+student_20
+Swimming is one of my hobbies. It's a good way to relax. I usually swim three times a week in gym and I really enjoy it. I also like to travel when I'm free.
+34
+student_21
+I have four major hobbies. The first one, also my favorite one, is reading. My reading topic ranges from novels to health, parenting and self-improvement. Most time I feel relaxed and fulfilled after reading. The second one is watching comic TV shows or movies, especially with my family. I enjoy the family movie time with popcorns and a lot of laughter. The third one is exercise, which can be seen as a hobby group including badminton, yoga, hiking and weight training. The fourth one is cooking and baking. This one is cultivated by my daughters. They really like homemade cookies and crackers as snacks. So I try different recipes to make healthy snacks with good taste as well.
+118
+student_22
+Traveling is one of my favorite hobby. Every break I will try to go and travel somewhere. I like to observe different US cities as each of them is unique. Another hobby of mine is to watch Asian drama, be it Korean, Chinese, Taiwanese, or Japanese. I like them because it reduces my stress and just enjoy the dramas.
+59
+student_23
+One of my favorite hobbies is singing. I am a tenor and am currently a part of the UNC Men's Glee Club. Another favorite hobby of mine is working with the science and engineering team I'm apart of on different science projects.
+42
+student_24
+Playing computer games is one of my hobbies. After hours of studying, I would like to play some computer games to relax myself and then feel energetic again. Also I like to watch movies when I'm at home. My favorite type of movie is suspense film.
+46
+student_25
+I like travelling and outdoor activities with friends and families, though sometimes these activities could be tiring, the experiences are always awesome and time spent with lovely people are happy.
+35
+student_26
+Watching movies is one of my hobbies and I really like movies from Hongkong. Despite the language difference between Cantonese and Mandarin, they have great screenplays and the actors are very talented. My favorite movie type is crime movie.
+39
